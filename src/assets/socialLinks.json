@@ -3,11 +3,7 @@
     "name": "Github",
     "icon": "/images/icon/github.png",
     "tip": "去 Github 看看",
-<<<<<<< HEAD
-    "url": "https://github.com/imsyy"
-=======
     "url": "https://github.com/Bandit-ljC-1"
->>>>>>> master
   },
   {
     "name": "BiliBili",
@@ -22,8 +18,6 @@
     "url": "https://res.abeim.cn/api/qq/?qq=1850159374"
   },
   {
-<<<<<<< HEAD
-=======
     "name": "WeChat",
     "icon": "/images/icon/WeChat.png",
     "tip": "妹子加个V~",
@@ -36,12 +30,10 @@
     "url": "https://blog.csdn.net/qq_63040545?spm=1000.2115.3001.5343"
   },
   {
->>>>>>> master
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
     "url": "mailto:one@imsyy.top"
-<<<<<<< HEAD
   },
   {
     "name": "Twitter",
@@ -54,7 +46,5 @@
     "icon": "/images/icon/telegram.png",
     "tip": "你懂的 ~",
     "url": "https://t.me/bottom_user"
-=======
->>>>>>> master
   }
 ]
