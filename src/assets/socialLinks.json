@@ -15,13 +15,13 @@
     "name": "QQ",
     "icon": "/images/icon/qq.png",
     "tip": "有什么事吗",
-    "url": "https://res.abeim.cn/api/qq/?qq=1850159374"
+    "url": "https://blog.liujinc.cn/myphotos/QQ.jpg"
   },
   {
     "name": "WeChat",
     "icon": "/images/icon/WeChat.png",
     "tip": "妹子加个V~",
-    "url": "mailto:one@imsyy.top"
+    "url": "https://blog.liujinc.cn/myphotos/WeChat.png"
   },
   {
     "name": "Csdn",
@@ -34,17 +34,5 @@
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
     "url": "mailto:one@imsyy.top"
-  },
-  {
-    "name": "Twitter",
-    "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://twitter.com/iimmsyy"
-  },
-  {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
   }
 ]
